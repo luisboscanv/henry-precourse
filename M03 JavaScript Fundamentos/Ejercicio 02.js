@@ -15,6 +15,7 @@ function devolverString(string) {
 function suma(x, y) {
    // Retorna el resultado de su suma.
    // Tu código:
+   console.log(suma)
 }
 
 function resta(x, y) {
