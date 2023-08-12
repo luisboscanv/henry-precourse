@@ -1,10 +1,14 @@
-/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
+-/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
 /*2️⃣ EJERCICIO 02 2️⃣*/
 
 function devolverString(string) {
    // Debe retornar un string.
    // Tu código:
+   console.log(string)
+   return string
+
 }
+
 
 // ⛔️ "X" e "Y" son números.
 
